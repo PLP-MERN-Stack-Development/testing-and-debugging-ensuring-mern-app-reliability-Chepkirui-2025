@@ -1,0 +1,12 @@
+{
+  "name": "testing-and-debugging-ensuring-mern-app-reliability-chepkirui-2025",
+  "version": "1.0.0",
+  "description": "This assignment focuses on implementing comprehensive testing strategies for a MERN stack application, including unit testing, integration testing, and end-to-end testing, along with debugging techniques.",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
